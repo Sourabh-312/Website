@@ -3,5 +3,5 @@ flask-cors
 requests  
 python-dotenv  
 cloudinary  
-supabase-py  
+supabase
 gunicorn  
